@@ -1,6 +1,6 @@
 <?php
     function returnStr($str){
-            echo $str;
+            return $str;
         } 
 ?>
 <!DOCTYPE html>
